@@ -1,0 +1,47 @@
+{
+    "teams": [
+        {
+            "team_name": "EMPEROR",
+            "games": 1,
+            "games_w_holes": 0,
+            "games_w_clashes": 0,
+            "hole": 0,
+            "clash": 0,
+            "all_hole": 0,
+            "avg_hole": 0.0,
+            "avg_clash": 0.0
+        },
+        {
+            "team_name": "FALCON",
+            "games": 3,
+            "games_w_holes": 1,
+            "games_w_clashes": 0,
+            "hole": 4,
+            "clash": 0,
+            "all_hole": 4,
+            "avg_hole": 1.33,
+            "avg_clash": 0.0
+        },
+        {
+            "team_name": "TNT",
+            "games": 4,
+            "games_w_holes": 3,
+            "games_w_clashes": 0,
+            "hole": 53,
+            "clash": 0,
+            "all_hole": 53,
+            "avg_hole": 13.25,
+            "avg_clash": 0.0
+        }
+    ],
+    "total": {
+        "games": 8,
+        "games_w_holes": 4,
+        "games_w_clashes": 0,
+        "hole": 57,
+        "clash": 0,
+        "all_hole": 57,
+        "avg_hole": 7.12,
+        "avg_clash": 0.0
+    }
+}
