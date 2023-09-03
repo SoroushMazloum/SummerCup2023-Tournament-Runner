@@ -39,4 +39,4 @@ If you have any problem, do not hesitate to contact me via Email: mazloomsoroush
 
 OR
 
-go to https://github.com/SoroushGit/Tournament-Runner and open an issue.
+go to https://github.com/SoroushGit/SummerCup2023-Tournament-Runner and open an issue.
