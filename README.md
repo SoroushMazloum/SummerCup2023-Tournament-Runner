@@ -6,7 +6,8 @@
 
 ### :gear: Get started
 
-First you should put all the binaries in `Bins` directory. All binaries must contain `localStartAll` and `start` script.
+First you should run `Setup.py` and then put all the binaries in `Bins` directory. All binaries must contain `localStartAll` and `start` script.
+After that edit 'Server', 'Channel'  and Bot 'Token' in all files in 'ScBot' directory
 
 To run a tournament, put the list of the games in `Games.txt` and then, execute `Run.sh` with
 ```
