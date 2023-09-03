@@ -26,6 +26,6 @@ for(( i=1; i <= $(wc -l < Games.txt); i++)) do
     sleep 1
     cd ScBot && ./FgBot.sh && cd ..
     ./LogCompressor.sh
-    python3 ChangeLogDir.py
+    ./ChangeLogDir.sh
     rm Mg
 done
